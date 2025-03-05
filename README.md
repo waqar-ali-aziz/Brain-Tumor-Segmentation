@@ -1,1 +1,1 @@
-# Brain-Tumor-Segmentation
+This repository contains implementations of two deep learning models for medical image segmentation: Mask R-CNN and UNET. The models are used for segmenting brain structures in medical images. Both models include data preprocessing, training, and evaluation to achieve accurate segmentation results, aiding in precise medical diagnostics and treatment planning.
